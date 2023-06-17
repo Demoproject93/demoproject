@@ -1,0 +1,4 @@
+2023-06-06 10:06:791 INFO  HomePage :25 - Clicking on Accept Cookie : [[ChromeDriver: chrome on WINDOWS (76cddd5cef79b4205c1d14ddc100eb8d)] -> xpath: //ul[@id='menu-main_menu']//li[@id='menu-item-32']]
+2023-06-06 10:06:20 INFO  HomePage :25 - Clicking on Accept Cookie : [[ChromeDriver: chrome on WINDOWS (a7bb1513f443f09d51721979e71765d5)] -> xpath: //ul[@id='menu-main_menu']//li[@id='menu-item-32']]
+2023-06-06 10:06:725 INFO  HomePage :25 - Clicking on Accept Cookie : Proxy element for: DefaultElementLocator 'By.xpath: //ul[@id='menu-main_menu']//li[@id='menu-item-32']'
+2023-06-06 10:06:304 INFO  HomePage :25 - Clicking on Accept Cookie : [[ChromeDriver: chrome on WINDOWS (c3db87af807ccd2df95fb46c7ec142c8)] -> xpath: //ul[@id='menu-main_menu']//li[@id='menu-item-32']]

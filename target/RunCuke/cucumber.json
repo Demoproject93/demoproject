@@ -1,0 +1,68 @@
+[
+  {
+    "line": 2,
+    "elements": [
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 6564639100,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.setUp()"
+            }
+          }
+        ],
+        "line": 5,
+        "name": "user open purplematrix home page",
+        "description": "",
+        "id": "user-open-webside-purplematrix;user-open-purplematrix-home-page",
+        "after": [
+          {
+            "result": {
+              "duration": 61000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 208188200,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "user click on Services",
+            "match": {
+              "location": "MyStepdefs.userClickOnServices()"
+            },
+            "keyword": "Given "
+          }
+        ],
+        "tags": [
+          {
+            "line": 4,
+            "name": "@smoke"
+          }
+        ]
+      }
+    ],
+    "name": "User open webside purplematrix",
+    "description": "",
+    "id": "user-open-webside-purplematrix",
+    "keyword": "Feature",
+    "uri": "homepage.feature",
+    "tags": [
+      {
+        "line": 1,
+        "name": "@Regression"
+      }
+    ]
+  }
+]
